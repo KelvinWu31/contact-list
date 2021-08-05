@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.site-header {
+  margin: 0;
+  font-weight: 100;
+}
+
+.logo-header {
+  width: 50px;
+}
+
+.site-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
